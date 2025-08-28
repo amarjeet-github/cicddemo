@@ -6,7 +6,7 @@
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <a href="https://www.linkedin.com/in/amarjeetsinghcomplianceanalyst/">Amarjeet Linkedin Profile</a>
+    <a href="https://www.linkedin.com/in/amarjeetsinghcomplianceanalyst/"><b>Amarjeet Linkedin Profile</b> </a>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
